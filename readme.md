@@ -7,7 +7,7 @@ All [DOM Standard](https://dom.spec.whatwg.org) globals exported as ES modules
 - [Console Standard](https://console.spec.whatwg.org): [`jcbhmr/console-standard-esm`](about:blank)
 - [Fetch Standard](https://fetch.spec.whatwg.org): [`jcbhmr/fetch-standard-esm`](about:blank)
 
-⏲️ Time Saver: Use the ready-made `spec-dom-standard.importmap` as a `--import-map` when using `deno bundle`!
+⏲️ Time Saver: Use the ready-made [`spec-dom-standard.importmap`](./spec-dom-standard.importmap) as a `--import-map` when using `deno bundle`!
 
 ## Why?
 
