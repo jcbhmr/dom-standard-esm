@@ -1,10 +1,10 @@
 {
-    "imports": {
-        "spec:https://dom.spec.whatwg.org/#eventtarget": "https://esm.sh/dom-standard-esm/event-target",
-        "spec:https://dom.spec.whatwg.org/#callbackdef-eventlistener": "https://esm.sh/dom-standard-esm/event-listener",
-        "spec:https://dom.spec.whatwg.org/#dictdef-eventlisteneroptions": "https://esm.sh/dom-standard-esm/event-listener-options",
-        "spec:https://dom.spec.whatwg.org/#dictdef-addeventlisteneroptions": "https://esm.sh/dom-standard-esm/add-event-listener-options",
-        "spec:https://dom.spec.whatwg.org/#abortcontroller": "https://esm.sh/dom-standard-esm/abort-controller",
-        "spec:https://dom.spec.whatwg.org/#abortsignal": "https://esm.sh/dom-standard-esm/abort-signal"
-    }
+	"imports": {
+		"spec:https://dom.spec.whatwg.org/#eventtarget": "https://esm.sh/dom-standard-esm/event-target",
+		"spec:https://dom.spec.whatwg.org/#callbackdef-eventlistener": "https://esm.sh/dom-standard-esm/event-listener",
+		"spec:https://dom.spec.whatwg.org/#dictdef-eventlisteneroptions": "https://esm.sh/dom-standard-esm/event-listener-options",
+		"spec:https://dom.spec.whatwg.org/#dictdef-addeventlisteneroptions": "https://esm.sh/dom-standard-esm/add-event-listener-options",
+		"spec:https://dom.spec.whatwg.org/#abortcontroller": "https://esm.sh/dom-standard-esm/abort-controller",
+		"spec:https://dom.spec.whatwg.org/#abortsignal": "https://esm.sh/dom-standard-esm/abort-signal"
+	}
 }
